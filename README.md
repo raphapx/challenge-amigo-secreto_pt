@@ -19,3 +19,10 @@ Um site simples e interativo para realizar sorteios de "Amigo Secreto". Adicione
 - **JavaScript:** Lógica para adicionar nomes e realizar o sorteio.
 
 ## 📂 Estrutura do projeto
+   challenge-amigo-secreto_pt/
+├── index.html # Página principal
+├── styles.css # Estilos da página
+├── script.js # Lógica do sorteio
+└── assets/ # Pasta para imagens e outros recursos
+└── amigo-secreto.png
+
